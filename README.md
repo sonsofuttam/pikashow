@@ -27,4 +27,4 @@ However, there are some downsides:
 
 - Streams can buffer and quality can be inconsistent at times.
 
-Pikashow APK provides free movies and shows streaming on Android, but the app itself comes from unofficial sources and may pose legal and safety risks.
+Pikashow APK provides free movies and shows streaming on Android, you can  downloadd pikashow app from above mentioned link.
