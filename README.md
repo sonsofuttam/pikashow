@@ -34,86 +34,173 @@ Pikashow APK provides free movies and shows streaming on Android, you can  downl
 So Here is the Version History of Pikashow App APK file.
 Here is the list with v added before each version number:
 
-Pikashow APK v1.0  
-Pikashow APK v2.0
-Pikashow APK v3.0
-Pikashow APK v4.0
-Pikashow APK v5.0
-Pikashow APK v6.0
-Pikashow APK v7.0
-Pikashow APK v8.0
-Pikashow APK v9.0
-Pikashow APK v10.0
-Pikashow APK v11.0
-Pikashow APK v12.0
-Pikashow APK v13.0
-Pikashow APK v14.0
-Pikashow APK v15.0
-Pikashow APK v16.0
-Pikashow APK v17.0
-Pikashow APK v18.0
-Pikashow APK v19.0
-Pikashow APK v20.0
-Pikashow APK v21.0
-Pikashow APK v22.0
-Pikashow APK v23.0
-Pikashow APK v24.0
-Pikashow APK v25.0
-Pikashow APK v26.0
-Pikashow APK v27.0 
-Pikashow APK v28.0
-Pikashow APK v29.0
-Pikashow APK v30.0
-Pikashow APK v31.0
-Pikashow APK v32.0
-Pikashow APK v33.0
-Pikashow APK v34.0
-Pikashow APK v35.0
-Pikashow APK v36.0
-Pikashow APK v37.0
-Pikashow APK v38.0
-Pikashow APK v39.0
-Pikashow APK v40.0
-Pikashow APK v41.0
-Pikashow APK v42.0
-Pikashow APK v43.0
-Pikashow APK v44.0
-Pikashow APK v45.0
-Pikashow APK v46.0
-Pikashow APK v47.0
-Pikashow APK v48.0
-Pikashow APK v49.0
-Pikashow APK v50.0
-Pikashow APK v51.0
-Pikashow APK v52.0
-Pikashow APK v53.0
-Pikashow APK v54.0
-Pikashow APK v55.0
-Pikashow APK v56.0
-Pikashow APK v57.0
-Pikashow APK v58.0
-Pikashow APK v59.0
-Pikashow APK v60.0
-Pikashow APK v61.0
-Pikashow APK v62.0
-Pikashow APK v63.0
-Pikashow APK v64.0
-Pikashow APK v65.0
-Pikashow APK v66.0
-Pikashow APK v67.0
-Pikashow APK v68.0
-Pikashow APK v69.0
-Pikashow APK v70.0
-Pikashow APK v71.0 
-Pikashow APK v72.0
-Pikashow APK v73.0
-Pikashow APK v74.0
-Pikashow APK v75.0
-Pikashow APK v76.0
-Pikashow APK v77.0
-Pikashow APK v78.0
-Pikashow APK v79.0
-Pikashow APK v80.0
-Pikashow APK v81.0
-Pikashow APK v82.0
-Pikashow APK v83.0
+
+<ul>
+
+<li>Pikashow APK v1.0</li>
+
+<li>Pikashow APK v2.0</li>
+
+<li>Pikashow APK v3.0</li> 
+
+<li>Pikashow APK v4.0</li>
+
+<li>Pikashow APK v5.0</li>
+
+<li>Pikashow APK v6.0</li>
+
+<li>Pikashow APK v7.0</li>
+
+<li>Pikashow APK v8.0</li>
+
+<li>Pikashow APK v9.0</li>
+
+<li>Pikashow APK v10.0</li>
+
+<li>Pikashow APK v11.0</li>
+
+<li>Pikashow APK v12.0</li>
+
+<li>Pikashow APK v13.0</li>
+
+<li>Pikashow APK v14.0</li>
+
+<li>Pikashow APK v15.0</li>
+
+<li>Pikashow APK v16.0</li>
+
+<li>Pikashow APK v17.0</li>
+
+<li>Pikashow APK v18.0</li>
+
+<li>Pikashow APK v19.0</li>
+
+<li>Pikashow APK v20.0</li>
+
+<li>Pikashow APK v21.0</li>
+
+<li>Pikashow APK v22.0</li>
+
+<li>Pikashow APK v23.0</li>
+
+<li>Pikashow APK v24.0</li>
+
+<li>Pikashow APK v25.0</li>
+
+<li>Pikashow APK v26.0</li>
+
+<li>Pikashow APK v27.0</li>
+
+<li>Pikashow APK v28.0</li>
+
+<li>Pikashow APK v29.0</li>
+
+<li>Pikashow APK v30.0</li>
+
+<li>Pikashow APK v31.0</li>
+
+<li>Pikashow APK v32.0</li>
+
+<li>Pikashow APK v33.0</li>
+
+<li>Pikashow APK v34.0</li>
+
+<li>Pikashow APK v35.0</li>
+
+<li>Pikashow APK v36.0</li>
+
+<li>Pikashow APK v37.0</li>
+
+<li>Pikashow APK v38.0</li>
+
+<li>Pikashow APK v39.0</li>
+
+<li>Pikashow APK v40.0</li>
+
+<li>Pikashow APK v41.0</li>
+
+<li>Pikashow APK v42.0</li>
+
+<li>Pikashow APK v43.0</li>
+
+<li>Pikashow APK v44.0</li>
+
+<li>Pikashow APK v45.0</li>
+
+<li>Pikashow APK v46.0</li>
+
+<li>Pikashow APK v47.0</li>
+
+<li>Pikashow APK v48.0</li>
+
+<li>Pikashow APK v49.0</li>
+
+<li>Pikashow APK v50.0</li>
+
+<li>Pikashow APK v51.0</li>
+
+<li>Pikashow APK v52.0</li>
+
+<li>Pikashow APK v53.0</li>
+
+<li>Pikashow APK v54.0</li>
+
+<li>Pikashow APK v55.0</li>
+
+<li>Pikashow APK v56.0</li>
+
+<li>Pikashow APK v57.0</li>
+
+<li>Pikashow APK v58.0</li>
+
+<li>Pikashow APK v59.0</li>
+
+<li>Pikashow APK v60.0</li>
+
+<li>Pikashow APK v61.0</li>
+
+<li>Pikashow APK v62.0</li>
+
+<li>Pikashow APK v63.0</li>
+
+<li>Pikashow APK v64.0</li>
+
+<li>Pikashow APK v65.0</li>
+
+<li>Pikashow APK v66.0</li>
+
+<li>Pikashow APK v67.0</li>
+
+<li>Pikashow APK v68.0</li>
+
+<li>Pikashow APK v69.0</li>
+
+<li>Pikashow APK v70.0</li>
+
+<li>Pikashow APK v71.0</li>
+
+<li>Pikashow APK v72.0</li>
+
+<li>Pikashow APK v73.0</li>
+
+<li>Pikashow APK v74.0</li>
+
+<li>Pikashow APK v75.0</li>
+
+<li>Pikashow APK v76.0</li>
+
+<li>Pikashow APK v77.0</li>
+
+<li>Pikashow APK v78.0</li>
+
+<li>Pikashow APK v79.0</li>
+
+<li>Pikashow APK v80.0</li>
+
+<li>Pikashow APK v81.0</li>
+
+<li>Pikashow APK v82.0</li>
+
+<li>Pikashow APK v83.0</li>
+
+</ul>
